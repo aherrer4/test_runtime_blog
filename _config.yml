@@ -1,0 +1,11 @@
+# basic options 
+title: Runtime-Blog 
+author: Armando-Herrera 
+email: aherrer4@stanford.edu
+description: a wonderful site 
+twitter_username: tdkes_10
+github_username: aherrer4
+
+# Build settings
+markdown: kramdown 
+theme: minima
